@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+h2 {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+button {
+  position: absolute;
+  text-align: center;
+}
